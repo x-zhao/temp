@@ -8,13 +8,13 @@
 ```bash
     $ cd /home/ipac/www/techocean.co.jp
     $ mkdir techocean-{v.v.v}-{YYYYMMDD}T{HHMM}
-```　　
+```
 
 2. ファイルをアップロード
 
 ```
     WinSCPなどを経由で`./webapp/*` にあるファイルを`techocean-{v.v.v}-{YYYYMMDD}T{HHMM}` にアップグレードする
-```　
+```
 
 3. リリースする
 
@@ -27,4 +27,4 @@
 
 ```
     Browserなどを経由でhttps://techocean.co.jp/をアクセスして、表示されている画面を確認する
-```　
+```
