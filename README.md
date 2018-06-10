@@ -21,7 +21,7 @@
 　　```bash
     $ cd /home/ipac/www/techocean.co.jp
     $ ln -snf techocean-{v.v.v}-{YYYYMMDD}T{HHMM} lastest
-    ```　
+    ```
 
 4. 画面を確認する
 
