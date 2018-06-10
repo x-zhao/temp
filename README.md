@@ -25,6 +25,6 @@
 
 4. 画面を確認する
 
-```
-    Browserなどを経由でhttps://techocean.co.jp/をアクセスして、表示されている画面を確認する
-```
+
+    Browserなどを経由で https://techocean.co.jp/ をアクセスして、表示されている画面を確認する
+
