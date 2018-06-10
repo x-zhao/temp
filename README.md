@@ -12,7 +12,6 @@
 
 2. ファイルをアップロード
 
-
     WinSCPなどを経由で`./webapp/*` にあるファイルを`techocean-{v.v.v}-{YYYYMMDD}T{HHMM}` にアップグレードする
 
 
@@ -25,6 +24,4 @@
 
 4. 画面を確認する
 
-
     Browserなどを経由で https://techocean.co.jp/ をアクセスして、表示されている画面を確認する
-
